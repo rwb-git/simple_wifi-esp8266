@@ -7,7 +7,7 @@ const char * ssid = "your_ssid";
 const char * password = "your_password";
 
 
-#define serial1 1         // un-comment this to enable lots of printing to the serial monitor. 
+//#define serial1 1         // un-comment this to enable lots of printing to the serial monitor. 
 
 
 #include <ESP8266WiFi.h>
