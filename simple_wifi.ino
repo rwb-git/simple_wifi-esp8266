@@ -3,8 +3,8 @@
 
 
 // enter your router SSID and password
-const char * ssid = "NETGEAR84";
-const char * password = "rb76543aaa789&*()cvbn";
+const char * ssid = "your_ssid";
+const char * password = "your_password";
 
 
 #define serial1 1         // un-comment this to enable lots of printing to the serial monitor. 
