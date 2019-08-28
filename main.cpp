@@ -4,8 +4,8 @@
 #include "server_loop.h"
 
 // enter your router SSID and password
-const char * ssid = "NETGEAR84";
-const char * password = "rb76543aaa789&*()cvbn";
+const char * ssid = "your_ssid";
+const char * password = "your_pwd";
 
 #define one_sec_led LED_BUILTIN  //D4    // builtin led on nodemcu
 
